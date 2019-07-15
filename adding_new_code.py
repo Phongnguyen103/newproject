@@ -9,6 +9,4 @@ Created on Mon Jul 15 11:51:42 2019
 
 you can have a bulletted
 
-or number
-
-second idea
+this is second idea
